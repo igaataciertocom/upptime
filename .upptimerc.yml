@@ -1,17 +1,21 @@
 # Change these first
 owner: upptime # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
-assignees: # Users to assign downtime issues (optional)
-  - igaataciertocom
 sites:
   - name: Acierto
     url: https://www.acierto.com
+    assignees:
+    - igaataciertocom
   - name: Credimarket
     url: https://www.credimarket.com
   - name: Comparador seguros coche
     url: https://www.acierto.com/comparador.php
   - name: Comparador Prestamos
     url: https://www.acierto.com/prestamos/comparador/
+  - name: VPN endpoint
+    check: "tcp-ping"
+    url: ovpn.credimarket.com
+    port: 1094
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
