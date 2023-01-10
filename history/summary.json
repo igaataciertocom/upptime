@@ -57,7 +57,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-10": 64,
+      "2023-01-10": 85,
       "2023-01-09": 1440,
       "2023-01-08": 1440,
       "2023-01-07": 1440,
@@ -231,10 +231,10 @@
     "url": "https://www.credimarket.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.credimarket.com.ico",
     "slug": "credimarket",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
     "time": 904,
@@ -243,6 +243,7 @@
     "timeMonth": 890,
     "timeYear": 904,
     "dailyMinutesDown": {
+      "2023-01-10": 1,
       "2022-12-08": 133,
       "2022-11-12": 16,
       "2022-09-08": 219
@@ -338,7 +339,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-10": 65,
+      "2023-01-10": 85,
       "2023-01-09": 1440,
       "2023-01-08": 1440,
       "2023-01-07": 1440,
