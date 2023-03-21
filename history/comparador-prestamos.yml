@@ -1,7 +1,7 @@
 url: https://www.acierto.com/prestamos/comparador/
-status: down
-code: 500
-responseTime: 357
-lastUpdated: 2023-03-21T05:28:31.037Z
+status: up
+code: 200
+responseTime: 381
+lastUpdated: 2023-03-21T05:55:23.063Z
 startTime: Fri Jul 08 2022 10:36:02 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
