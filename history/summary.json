@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.acierto.com.ico",
     "slug": "acierto",
     "status": "up",
-    "uptime": "92.62%",
+    "uptime": "92.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
-    "uptimeYear": "94.30%",
-    "time": 1157,
-    "timeDay": 1106,
-    "timeWeek": 1094,
-    "timeMonth": 1079,
-    "timeYear": 1157,
+    "uptimeYear": "94.58%",
+    "time": 1158,
+    "timeDay": 1556,
+    "timeWeek": 1156,
+    "timeMonth": 1097,
+    "timeYear": 1158,
     "dailyMinutesDown": {
       "2023-07-05": 40,
       "2023-06-30": 18,
@@ -45,8 +45,7 @@
       "2022-08-01": 1440,
       "2022-07-31": 1440,
       "2022-07-30": 1440,
-      "2022-07-29": 1440,
-      "2022-07-28": 1440
+      "2022-07-29": 1440
     }
   },
   {
@@ -55,16 +54,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/condor.acierto.com.ico",
     "slug": "crm",
     "status": "up",
-    "uptime": "12.29%",
+    "uptime": "12.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "12.29%",
-    "time": 1716,
-    "timeDay": 1728,
-    "timeWeek": 1714,
-    "timeMonth": 1722,
-    "timeYear": 1716,
+    "uptimeYear": "12.53%",
+    "time": 1717,
+    "timeDay": 1769,
+    "timeWeek": 1723,
+    "timeMonth": 1725,
+    "timeYear": 1717,
     "dailyMinutesDown": {
       "2023-07-04": 16,
       "2023-06-30": 16,
@@ -386,8 +385,7 @@
       "2022-08-01": 1440,
       "2022-07-31": 1440,
       "2022-07-30": 1440,
-      "2022-07-29": 1440,
-      "2022-07-28": 936
+      "2022-07-29": 1440
     }
   },
   {
@@ -401,10 +399,10 @@
     "uptimeWeek": "99.15%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.62%",
-    "time": 1057,
-    "timeDay": 854,
-    "timeWeek": 834,
-    "timeMonth": 879,
+    "time": 1054,
+    "timeDay": 919,
+    "timeWeek": 848,
+    "timeMonth": 882,
     "timeYear": 1059,
     "dailyMinutesDown": {
       "2023-07-23": 55,
@@ -433,16 +431,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.acierto.com.ico",
     "slug": "comparador-seguros-coche",
     "status": "up",
-    "uptime": "94.71%",
+    "uptime": "94.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
-    "uptimeYear": "96.50%",
-    "time": 670,
-    "timeDay": 316,
-    "timeWeek": 330,
-    "timeMonth": 322,
-    "timeYear": 670,
+    "uptimeYear": "96.77%",
+    "time": 669,
+    "timeDay": 430,
+    "timeWeek": 347,
+    "timeMonth": 326,
+    "timeYear": 669,
     "dailyMinutesDown": {
       "2023-07-05": 40,
       "2023-06-30": 16,
@@ -461,8 +459,7 @@
       "2022-08-01": 1440,
       "2022-07-31": 1440,
       "2022-07-30": 1440,
-      "2022-07-29": 1440,
-      "2022-07-28": 1440
+      "2022-07-29": 1440
     }
   },
   {
@@ -471,15 +468,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.acierto.com.ico",
     "slug": "comparador-prestamos",
     "status": "up",
-    "uptime": "94.65%",
+    "uptime": "94.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.43%",
+    "uptimeYear": "96.71%",
     "time": 495,
-    "timeDay": 302,
-    "timeWeek": 381,
-    "timeMonth": 351,
+    "timeDay": 361,
+    "timeWeek": 375,
+    "timeMonth": 352,
     "timeYear": 495,
     "dailyMinutesDown": {
       "2023-05-09": 405,
@@ -498,8 +495,7 @@
       "2022-08-01": 1440,
       "2022-07-31": 1440,
       "2022-07-30": 1440,
-      "2022-07-29": 1440,
-      "2022-07-28": 1440
+      "2022-07-29": 1440
     }
   },
   {
@@ -519,7 +515,8 @@
     "timeMonth": 0,
     "timeYear": 598,
     "dailyMinutesDown": {
-      "2023-07-27": 59,
+      "2023-07-28": 61,
+      "2023-07-27": 1440,
       "2023-07-26": 1440,
       "2023-07-25": 1440,
       "2023-07-24": 1440,
@@ -882,8 +879,7 @@
       "2022-08-01": 1440,
       "2022-07-31": 1440,
       "2022-07-30": 1440,
-      "2022-07-29": 1440,
-      "2022-07-28": 1440
+      "2022-07-29": 1440
     }
   }
 ]
