@@ -49,11 +49,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/condor.acierto.com.ico",
     "slug": "crm",
     "status": "up",
-    "uptime": "17.71%",
+    "uptime": "17.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "18.81%",
+    "uptimeYear": "18.82%",
     "time": 1719,
     "timeDay": 1745,
     "timeWeek": 1728,
@@ -358,8 +358,7 @@
       "2022-08-24": 1440,
       "2022-08-23": 1440,
       "2022-08-22": 1440,
-      "2022-08-21": 1440,
-      "2022-08-20": 1440
+      "2022-08-21": 1440
     }
   },
   {
@@ -367,19 +366,20 @@
     "url": "https://www.credimarket.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.credimarket.com.ico",
     "slug": "credimarket",
-    "status": "down",
-    "uptime": "99.63%",
-    "uptimeDay": "99.85%",
+    "status": "up",
+    "uptime": "99.62%",
+    "uptimeDay": "94.75%",
     "uptimeWeek": "99.07%",
-    "uptimeMonth": "99.40%",
-    "uptimeYear": "99.59%",
+    "uptimeMonth": "99.23%",
+    "uptimeYear": "99.57%",
     "time": 1058,
-    "timeDay": 880,
-    "timeWeek": 957,
-    "timeMonth": 931,
+    "timeDay": 887,
+    "timeWeek": 958,
+    "timeMonth": 932,
     "timeYear": 1061,
     "dailyMinutesDown": {
-      "2023-08-19": 2,
+      "2023-08-20": 70,
+      "2023-08-19": 6,
       "2023-08-13": 89,
       "2023-08-12": 3,
       "2023-07-30": 85,
@@ -441,7 +441,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.acierto.com.ico",
     "slug": "comparador-prestamos",
     "status": "up",
-    "uptime": "94.96%",
+    "uptime": "94.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -482,7 +482,8 @@
     "timeMonth": 0,
     "timeYear": 598,
     "dailyMinutesDown": {
-      "2023-08-19": 1438,
+      "2023-08-20": 74,
+      "2023-08-19": 1440,
       "2023-08-18": 1440,
       "2023-08-17": 1440,
       "2023-08-16": 1440,
@@ -845,8 +846,7 @@
       "2022-08-24": 1440,
       "2022-08-23": 1440,
       "2022-08-22": 1440,
-      "2022-08-21": 1440,
-      "2022-08-20": 1440
+      "2022-08-21": 1440
     }
   }
 ]
