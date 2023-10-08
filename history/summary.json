@@ -47,11 +47,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/condor.acierto.com.ico",
     "slug": "crm",
     "status": "up",
-    "uptime": "26.94%",
+    "uptime": "26.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "32.23%",
+    "uptimeYear": "32.24%",
     "time": 1725,
     "timeDay": 1749,
     "timeWeek": 1734,
@@ -307,8 +307,7 @@
       "2022-10-12": 1440,
       "2022-10-11": 1440,
       "2022-10-10": 1440,
-      "2022-10-09": 1440,
-      "2022-10-08": 1440
+      "2022-10-09": 1440
     }
   },
   {
@@ -317,18 +316,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.credimarket.com.ico",
     "slug": "credimarket",
     "status": "down",
-    "uptime": "99.55%",
-    "uptimeDay": "99.90%",
+    "uptime": "99.54%",
+    "uptimeDay": "95.61%",
     "uptimeWeek": "99.24%",
-    "uptimeMonth": "98.88%",
-    "uptimeYear": "99.48%",
+    "uptimeMonth": "98.74%",
+    "uptimeYear": "99.46%",
     "time": 1059,
     "timeDay": 879,
     "timeWeek": 918,
     "timeMonth": 901,
     "timeYear": 1060,
     "dailyMinutesDown": {
-      "2023-10-07": 1,
+      "2023-10-08": 55,
+      "2023-10-07": 8,
       "2023-10-01": 69,
       "2023-09-30": 15,
       "2023-09-24": 92,
@@ -446,7 +446,8 @@
     "timeMonth": 0,
     "timeYear": 598,
     "dailyMinutesDown": {
-      "2023-10-07": 1434,
+      "2023-10-08": 56,
+      "2023-10-07": 1440,
       "2023-10-06": 1440,
       "2023-10-05": 1440,
       "2023-10-04": 1440,
@@ -809,8 +810,7 @@
       "2022-10-12": 1440,
       "2022-10-11": 1440,
       "2022-10-10": 1440,
-      "2022-10-09": 1440,
-      "2022-10-08": 1440
+      "2022-10-09": 1440
     }
   }
 ]
