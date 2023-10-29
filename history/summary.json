@@ -11,9 +11,9 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "96.35%",
     "time": 1153,
-    "timeDay": 1111,
-    "timeWeek": 1083,
-    "timeMonth": 1119,
+    "timeDay": 1103,
+    "timeWeek": 1074,
+    "timeMonth": 1118,
     "timeYear": 1153,
     "dailyMinutesDown": {
       "2023-10-17": 26,
@@ -47,15 +47,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/condor.acierto.com.ico",
     "slug": "crm",
     "status": "up",
-    "uptime": "30.25%",
+    "uptime": "30.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "37.90%",
+    "uptimeYear": "37.98%",
     "time": 1725,
-    "timeDay": 1739,
-    "timeWeek": 1724,
-    "timeMonth": 1734,
+    "timeDay": 1744,
+    "timeWeek": 1718,
+    "timeMonth": 1733,
     "timeYear": 1725,
     "dailyMinutesDown": {
       "2023-07-30": 26,
@@ -286,8 +286,7 @@
       "2022-11-02": 1440,
       "2022-11-01": 1440,
       "2022-10-31": 1440,
-      "2022-10-30": 1440,
-      "2022-10-29": 1440
+      "2022-10-30": 1440
     }
   },
   {
@@ -295,19 +294,20 @@
     "url": "https://www.credimarket.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.credimarket.com.ico",
     "slug": "credimarket",
-    "status": "up",
+    "status": "down",
     "uptime": "99.51%",
-    "uptimeDay": "92.44%",
-    "uptimeWeek": "97.97%",
-    "uptimeMonth": "98.88%",
+    "uptimeDay": "92.31%",
+    "uptimeWeek": "97.98%",
+    "uptimeMonth": "98.87%",
     "uptimeYear": "99.40%",
     "time": 1055,
-    "timeDay": 906,
-    "timeWeek": 912,
+    "timeDay": 908,
+    "timeWeek": 906,
     "timeMonth": 916,
     "timeYear": 1057,
     "dailyMinutesDown": {
-      "2023-10-28": 109,
+      "2023-10-29": 1,
+      "2023-10-28": 110,
       "2023-10-22": 95,
       "2023-10-21": 1,
       "2023-10-15": 95,
@@ -364,9 +364,9 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "98.54%",
     "time": 588,
-    "timeDay": 496,
-    "timeWeek": 338,
-    "timeMonth": 352,
+    "timeDay": 594,
+    "timeWeek": 349,
+    "timeMonth": 354,
     "timeYear": 585,
     "dailyMinutesDown": {
       "2023-10-17": 25,
@@ -396,9 +396,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.46%",
     "time": 484,
-    "timeDay": 453,
-    "timeWeek": 384,
-    "timeMonth": 386,
+    "timeDay": 492,
+    "timeWeek": 390,
+    "timeMonth": 387,
     "timeYear": 486,
     "dailyMinutesDown": {
       "2023-09-12": 28,
@@ -432,7 +432,8 @@
     "timeMonth": 0,
     "timeYear": 598,
     "dailyMinutesDown": {
-      "2023-10-28": 980,
+      "2023-10-29": 3,
+      "2023-10-28": 1440,
       "2023-10-27": 1440,
       "2023-10-26": 1440,
       "2023-10-25": 1440,
@@ -795,8 +796,7 @@
       "2022-11-02": 1440,
       "2022-11-01": 1440,
       "2022-10-31": 1440,
-      "2022-10-30": 1440,
-      "2022-10-29": 1440
+      "2022-10-30": 1440
     }
   }
 ]
