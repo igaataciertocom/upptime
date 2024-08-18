@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "93.41%",
     "time": 1047,
-    "timeDay": 955,
-    "timeWeek": 964,
-    "timeMonth": 997,
+    "timeDay": 1023,
+    "timeWeek": 982,
+    "timeMonth": 998,
     "timeYear": 1046,
     "dailyMinutesDown": {
       "2024-07-15": 24,
@@ -53,16 +53,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/condor.acierto.com.ico",
     "slug": "crm",
     "status": "up",
-    "uptime": "57.51%",
+    "uptime": "57.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 1708,
-    "timeDay": 1637,
-    "timeWeek": 1692,
-    "timeMonth": 1641,
-    "timeYear": 1708,
+    "timeDay": 1656,
+    "timeWeek": 1704,
+    "timeMonth": 1643,
+    "timeYear": 1707,
     "dailyMinutesDown": {
       "2024-07-22": 39
     }
@@ -73,18 +73,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.credimarket.com.ico",
     "slug": "credimarket",
     "status": "up",
-    "uptime": "68.03%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.33%",
-    "uptimeMonth": "99.52%",
-    "uptimeYear": "32.90%",
+    "uptime": "67.95%",
+    "uptimeDay": "8.59%",
+    "uptimeWeek": "86.35%",
+    "uptimeMonth": "96.53%",
+    "uptimeYear": "32.66%",
     "time": 366,
-    "timeDay": 835,
-    "timeWeek": 822,
-    "timeMonth": 822,
-    "timeYear": 356,
+    "timeDay": 852,
+    "timeWeek": 838,
+    "timeMonth": 820,
+    "timeYear": 355,
     "dailyMinutesDown": {
-      "2024-08-17": 8,
+      "2024-08-18": 65,
+      "2024-08-17": 1251,
       "2024-08-14": 59,
       "2024-08-01": 17,
       "2024-07-23": 127,
@@ -359,8 +360,7 @@
       "2023-09-02": 8,
       "2023-08-27": 91,
       "2023-08-26": 11,
-      "2023-08-20": 70,
-      "2023-08-19": 6
+      "2023-08-20": 70
     }
   },
   {
@@ -374,10 +374,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "93.42%",
-    "time": 390,
-    "timeDay": 694,
-    "timeWeek": 675,
-    "timeMonth": 693,
+    "time": 391,
+    "timeDay": 714,
+    "timeWeek": 682,
+    "timeMonth": 695,
     "timeYear": 392,
     "dailyMinutesDown": {
       "2024-07-04": 652,
@@ -416,14 +416,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.acierto.com.ico",
     "slug": "comparador-prestamos",
     "status": "up",
-    "uptime": "94.22%",
+    "uptime": "94.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "93.42%",
     "time": 357,
-    "timeDay": 378,
-    "timeWeek": 351,
+    "timeDay": 370,
+    "timeWeek": 355,
     "timeMonth": 363,
     "timeYear": 355,
     "dailyMinutesDown": {
@@ -472,7 +472,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-17": 175,
+      "2024-08-18": 67,
+      "2024-08-17": 1440,
       "2024-08-16": 1440,
       "2024-08-15": 1440,
       "2024-08-14": 1440,
@@ -835,8 +836,7 @@
       "2023-08-23": 1440,
       "2023-08-22": 1440,
       "2023-08-21": 1440,
-      "2023-08-20": 1440,
-      "2023-08-19": 1440
+      "2023-08-20": 1440
     }
   }
 ]
