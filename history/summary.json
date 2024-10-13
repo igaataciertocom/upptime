@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "93.42%",
-    "time": 1027,
-    "timeDay": 1008,
-    "timeWeek": 979,
-    "timeMonth": 970,
+    "time": 1026,
+    "timeDay": 957,
+    "timeWeek": 982,
+    "timeMonth": 969,
     "timeYear": 1025,
     "dailyMinutesDown": {
       "2024-07-15": 24,
@@ -52,16 +52,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/condor.acierto.com.ico",
     "slug": "crm",
     "status": "up",
-    "uptime": "60.45%",
+    "uptime": "60.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1694,
-    "timeDay": 1626,
-    "timeWeek": 1621,
-    "timeMonth": 1628,
-    "timeYear": 1693,
+    "time": 1693,
+    "timeDay": 1595,
+    "timeWeek": 1618,
+    "timeMonth": 1627,
+    "timeYear": 1692,
     "dailyMinutesDown": {
       "2024-07-22": 39
     }
@@ -72,15 +72,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.credimarket.com.ico",
     "slug": "credimarket",
     "status": "up",
-    "uptime": "68.19%",
+    "uptime": "68.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "68.96%",
     "uptimeMonth": "92.67%",
     "uptimeYear": "28.55%",
     "time": 353,
-    "timeDay": 851,
-    "timeWeek": 622,
-    "timeMonth": 838,
+    "timeDay": 828,
+    "timeWeek": 634,
+    "timeMonth": 836,
     "timeYear": 343,
     "dailyMinutesDown": {
       "2024-10-09": 660,
@@ -360,8 +360,7 @@
       "2023-10-28": 110,
       "2023-10-22": 95,
       "2023-10-21": 1,
-      "2023-10-15": 95,
-      "2023-10-14": 7
+      "2023-10-15": 95
     }
   },
   {
@@ -375,9 +374,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "93.42%",
-    "time": 426,
-    "timeDay": 672,
-    "timeWeek": 676,
+    "time": 427,
+    "timeDay": 665,
+    "timeWeek": 674,
     "timeMonth": 668,
     "timeYear": 428,
     "dailyMinutesDown": {
@@ -416,15 +415,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.acierto.com.ico",
     "slug": "comparador-prestamos",
     "status": "up",
-    "uptime": "94.61%",
+    "uptime": "94.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "93.43%",
     "time": 345,
-    "timeDay": 342,
-    "timeWeek": 351,
-    "timeMonth": 348,
+    "timeDay": 326,
+    "timeWeek": 348,
+    "timeMonth": 347,
     "timeYear": 344,
     "dailyMinutesDown": {
       "2024-07-04": 652,
@@ -471,7 +470,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-12": 67,
+      "2024-10-13": 74,
+      "2024-10-12": 1440,
       "2024-10-11": 1440,
       "2024-10-10": 1440,
       "2024-10-09": 1440,
@@ -834,8 +834,7 @@
       "2023-10-18": 1440,
       "2023-10-17": 1440,
       "2023-10-16": 1440,
-      "2023-10-15": 1440,
-      "2023-10-14": 1440
+      "2023-10-15": 1440
     }
   }
 ]
