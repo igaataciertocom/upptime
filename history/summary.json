@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.acierto.com.ico",
     "slug": "acierto",
     "status": "up",
-    "uptime": "93.89%",
+    "uptime": "93.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "93.42%",
-    "time": 1015,
-    "timeDay": 947,
-    "timeWeek": 945,
-    "timeMonth": 968,
+    "time": 1014,
+    "timeDay": 937,
+    "timeWeek": 938,
+    "timeMonth": 967,
     "timeYear": 1012,
     "dailyMinutesDown": {
       "2024-07-15": 24,
@@ -51,16 +51,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/condor.acierto.com.ico",
     "slug": "crm",
     "status": "up",
-    "uptime": "61.92%",
+    "uptime": "61.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1685,
-    "timeDay": 1644,
-    "timeWeek": 1623,
-    "timeMonth": 1627,
-    "timeYear": 1684,
+    "timeDay": 1606,
+    "timeWeek": 1619,
+    "timeMonth": 1628,
+    "timeYear": 1683,
     "dailyMinutesDown": {
       "2024-07-22": 39
     }
@@ -71,16 +71,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.credimarket.com.ico",
     "slug": "credimarket",
     "status": "up",
-    "uptime": "69.34%",
+    "uptime": "69.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "30.90%",
-    "time": 350,
-    "timeDay": 798,
-    "timeWeek": 791,
-    "timeMonth": 807,
-    "timeYear": 355,
+    "uptimeYear": "31.18%",
+    "time": 352,
+    "timeDay": 765,
+    "timeWeek": 782,
+    "timeMonth": 805,
+    "timeYear": 357,
     "dailyMinutesDown": {
       "2024-10-09": 660,
       "2024-10-08": 1440,
@@ -342,8 +342,7 @@
       "2023-11-18": 1440,
       "2023-11-17": 1440,
       "2023-11-16": 1440,
-      "2023-11-15": 1440,
-      "2023-11-14": 1440
+      "2023-11-15": 1440
     }
   },
   {
@@ -352,15 +351,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.acierto.com.ico",
     "slug": "comparador-seguros-coche",
     "status": "up",
-    "uptime": "94.83%",
+    "uptime": "94.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "93.42%",
     "time": 449,
-    "timeDay": 589,
-    "timeWeek": 629,
-    "timeMonth": 654,
+    "timeDay": 621,
+    "timeWeek": 626,
+    "timeMonth": 652,
     "timeYear": 448,
     "dailyMinutesDown": {
       "2024-07-04": 652,
@@ -403,8 +402,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "93.43%",
     "time": 340,
-    "timeDay": 330,
-    "timeWeek": 330,
+    "timeDay": 337,
+    "timeWeek": 329,
     "timeMonth": 347,
     "timeYear": 337,
     "dailyMinutesDown": {
@@ -452,7 +451,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-12": 67,
+      "2024-11-13": 70,
+      "2024-11-12": 1440,
       "2024-11-11": 1440,
       "2024-11-10": 1440,
       "2024-11-09": 1440,
@@ -815,8 +815,7 @@
       "2023-11-18": 1440,
       "2023-11-17": 1440,
       "2023-11-16": 1440,
-      "2023-11-15": 1440,
-      "2023-11-14": 1440
+      "2023-11-15": 1440
     }
   }
 ]
