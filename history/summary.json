@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "93.42%",
-    "time": 1014,
-    "timeDay": 947,
-    "timeWeek": 936,
+    "time": 1013,
+    "timeDay": 936,
+    "timeWeek": 937,
     "timeMonth": 964,
-    "timeYear": 1011,
+    "timeYear": 1009,
     "dailyMinutesDown": {
       "2024-07-15": 24,
       "2024-07-04": 652,
@@ -51,16 +51,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/condor.acierto.com.ico",
     "slug": "crm",
     "status": "up",
-    "uptime": "62.05%",
+    "uptime": "62.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1684,
-    "timeDay": 1621,
-    "timeWeek": 1616,
-    "timeMonth": 1625,
-    "timeYear": 1683,
+    "time": 1683,
+    "timeDay": 1594,
+    "timeWeek": 1613,
+    "timeMonth": 1626,
+    "timeYear": 1682,
     "dailyMinutesDown": {
       "2024-07-22": 39
     }
@@ -71,16 +71,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.credimarket.com.ico",
     "slug": "credimarket",
     "status": "up",
-    "uptime": "69.45%",
+    "uptime": "69.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "31.73%",
-    "time": 356,
-    "timeDay": 749,
-    "timeWeek": 770,
+    "uptimeYear": "32.00%",
+    "time": 357,
+    "timeDay": 790,
+    "timeWeek": 766,
     "timeMonth": 801,
-    "timeYear": 360,
+    "timeYear": 362,
     "dailyMinutesDown": {
       "2024-10-09": 660,
       "2024-10-08": 1440,
@@ -339,8 +339,7 @@
       "2023-11-21": 1440,
       "2023-11-20": 1440,
       "2023-11-19": 1440,
-      "2023-11-18": 1440,
-      "2023-11-17": 1440
+      "2023-11-18": 1440
     }
   },
   {
@@ -355,8 +354,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "93.42%",
     "time": 450,
-    "timeDay": 632,
-    "timeWeek": 626,
+    "timeDay": 610,
+    "timeWeek": 624,
     "timeMonth": 648,
     "timeYear": 449,
     "dailyMinutesDown": {
@@ -400,10 +399,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "93.43%",
     "time": 339,
-    "timeDay": 341,
+    "timeDay": 332,
     "timeWeek": 330,
     "timeMonth": 346,
-    "timeYear": 336,
+    "timeYear": 335,
     "dailyMinutesDown": {
       "2024-07-04": 652,
       "2024-07-03": 1440,
@@ -449,7 +448,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-15": 73,
+      "2024-11-16": 72,
+      "2024-11-15": 1440,
       "2024-11-14": 1440,
       "2024-11-13": 1440,
       "2024-11-12": 1440,
@@ -812,8 +812,7 @@
       "2023-11-21": 1440,
       "2023-11-20": 1440,
       "2023-11-19": 1440,
-      "2023-11-18": 1440,
-      "2023-11-17": 1440
+      "2023-11-18": 1440
     }
   }
 ]
